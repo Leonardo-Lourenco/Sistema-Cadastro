@@ -11,6 +11,5 @@ Sistema-Cadastro com PHP, com painel de administração, site.
 
 3 - Site da Aplicação:
 
-624854c7dc43.png)
 ![Captura de tela de 2019-05-12 10-44-15](https://user-images.githubusercontent.com/27355729/57583066-19a13f80-74a3-11e9-99a8-e2d91fba6bc2.png)
 
