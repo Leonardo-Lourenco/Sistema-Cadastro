@@ -13,3 +13,12 @@ Sistema-Cadastro com PHP, com painel de administração, site.
 
 ![Captura de tela de 2019-05-12 10-44-15](https://user-images.githubusercontent.com/27355729/57583066-19a13f80-74a3-11e9-99a8-e2d91fba6bc2.png)
 
+Estrutura ds Aplicação:
+1 - Painel de Login
+2 - Painel de Administração
+3 - Dentro do Painel:
+    - Gerencia Site
+    - Cadastra Alunos, CRUD
+    
+Ferramentas usadas:
+PHP, MYSQL, BOOTSTRAP.
